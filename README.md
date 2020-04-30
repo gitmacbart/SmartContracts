@@ -1,22 +1,24 @@
-<h1 align="center">Welcome to My Project 👋</h1>
+<h1 align="center">Generate key files per member 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> joli project que je fais moi meme
+> Atlas Smart Contracts Proof of Concepts
 
 ### 🏠 [Homepage](devine.com)
 
 ## Install
 
 ```sh
-pip debrouille toi
+Nothing
 ```
 
 ## Usage
 
 ```sh
-feu test 01
+./CreateMember.sh name_of_the_member
+
+Output in corresponding directory
 ```
 
 ## Author
