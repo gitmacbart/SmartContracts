@@ -1,0 +1,6 @@
+{
+  "kind": "certificate",
+  "certificate": "{cert}",
+  "privateKeySki": "{keySki}",
+  "keyType": "ECDSA"
+}
